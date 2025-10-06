@@ -985,6 +985,46 @@
       "rating": 4.8,
       "preparation": "25-30 mins",
       "description": "Moist cake with grated carrots, spices, and cream cheese frosting."
+    },
+    {
+      "name": "Chocolate Mousse",
+      "price": 4.2,
+      "image": "img/mousse.webp",
+      "rating": 4.8,
+      "preparation": "20 mins",
+      "description": "Light and airy chocolate dessert with creamy texture."
+    },
+    {
+      "name": "Pistachio Baklava",
+      "price": 5.0,
+      "image": "img/baklava.webp",
+      "rating": 4.9,
+      "preparation": "30 mins",
+      "description": "Flaky pastry layered with nuts and sweet syrup."
+    },
+    {
+      "name": "Churros",
+      "price": 4.0,
+      "image": "img/churros.webp",
+      "rating": 4.7,
+      "preparation": "15 mins",
+      "description": "Crispy fried dough sprinkled with sugar and cinnamon."
+    },
+    {
+      "name": "Eclairs",
+      "price": 4.8,
+      "image": "img/eclairs.webp",
+      "rating": 4.6,
+      "preparation": "20 mins",
+      "description": "Pastry filled with cream and topped with chocolate."
+    },
+    {
+      "name": "Banana Split",
+      "price": 4.0,
+      "image": "img/banana_split.webp",
+      "rating": 4.7,
+      "preparation": "10 mins",
+      "description": "Classic dessert with ice cream, banana, and toppings."
     }
   ]
 }
