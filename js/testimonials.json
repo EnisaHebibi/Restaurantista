@@ -1,0 +1,33 @@
+[
+    {
+    "name":"Arbrim Thaci",
+    "role":"CEO",
+    "image": "img/arbrim-thaci.webp",
+    "text": "Arbrim Thaci says: Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem corporis deleniti dolores."
+    },
+
+    {
+        "name":"Enes Shala",
+        "role":"Front-End Engineer",
+        "image": "img/enes-shala.png",
+        "text": "Enes Shala says: Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem corporis deleniti dolores expedita explicabo harum illo inventore ipsum iste, labore laboriosam magni."
+    },
+    {
+        "name":"Violeta Murati Thaci",
+        "role":"Lead Marketing",
+        "image": "img/violeta-thaci.webp",
+        "text": "Violeta Murati Thaci says: Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem corporis deleniti dolores expedita exlabore laboriosam."
+    },
+    {
+        "name":"Nora Nora",
+        "role":"Client",
+        "image": "img/client.jpg",
+        "text": "Client says: Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem corporis deleniti dolores expedita explicabo harum illo inventore ipsum iste, labore laboriosam magni ."
+    },
+    {
+        "name":"Maria Loca",
+        "role":"Client",
+        "image": "img/client2.jpg",
+        "text": "Client2 says: Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem corporis deleniti dolores expedita explicabo harum illo inventore ipsum iste, labore laboriosam magni nam nihil nisi .nam nihil nisi ."
+    }
+]
